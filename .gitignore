@@ -1,0 +1,21 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build files
+build/
+
+# Ignore sourcemaps
+*.map
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Ignore pycache
+__pycache__/
